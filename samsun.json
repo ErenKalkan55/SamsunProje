@@ -1,0 +1,19 @@
+{
+   "Samsun":[
+      {
+         "isim":"Onur Anıtı",
+         "aciklama":"Atatürkün milli mücadeleyi başlattığı yer",
+         "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/ballica.png"
+      },
+      {
+         "isim":"Amisos Tepesi",
+         "aciklama":"Samsun'un en yüksek noktası. Deniz manzarası ve antik kalıntılarla ünlü",
+         "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/kazgolu.png"
+      },
+      {
+         "isim":"Şahinkaya Kanyonu",
+         "aciklama":"Samsun'un Vezirköprü ilçesinde bulunan doğal bir kanyon.",
+         "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/kazgolu.png"
+      }
+   ]
+}
